@@ -17,7 +17,8 @@
 - 🔭 I'm the founder of **D.A.M.N Labs**, building autonomous AI engines, symbolic architectures, and developer tools.
 - 🧠 Passionate about **Symbolic AI, OOD Generalization, Low-level OS development, and Rust/Python systems**.
 - ⚡ Linux enthusiast running **Arch Linux (Zen Kernel) + Hyprland / KDE Plasma** on ASUS TUF Gaming.
-- 📫 Reach me via Telegram: **[@Mari_programm](https://t.me/Mari_programm)** or Email: **creatermari@gmail.com**
+- 📫 Reach me via Telegram: **[@Mari_programm](https://t.me/Mari_programm)** or Email: **mardonfounder@gmail.com**
+- 💬 My instagramm **[Mari_programm](https://www.instagram.com/mari_programm?rpxt=MWY0NHd6MTBkNnF4cA==)**
 
 ---
 
